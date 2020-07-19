@@ -1,0 +1,3 @@
+peertube._domainkey.localhost.	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm+d5ItxojECDzpx/lWQy9gp4nnw53vPgyXeSvHbjNcP5LS4BDthsnuASR+p9HrpsmYN2MZyEmjLVcqKpRBWkrwRa/4GnpzyDaeQzko6Je5+oDLYdqQq7G8OGkyfhoNiZzQmTfPGeYh9lIL6zJF+JkWaS8p+9qrMH5RTkvcwzSrUoy9S+jb0VIvyQcE0xhRbn/O1vgTSW8mbxNV"
+	  "VccgS1oN9d3j6ffjw+rox4mSqvmva3MXseUjPYkq334XldKeTvOFPNHXN6u39KuHRDHe+p0c9+19d87P/81fmFEjmYE7cYOrfhU/zLDAgac2pY3mq1dN4FtzVJw2HeLxWdyKbmeQIDAQAB" )  ; ----- DKIM key peertube for localhost

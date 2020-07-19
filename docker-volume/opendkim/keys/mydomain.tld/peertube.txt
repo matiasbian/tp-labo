@@ -1,0 +1,3 @@
+peertube._domainkey.mydomain.tld.	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmSdhpE+Fnz6w94uBeTv7PLh+k2sB9lkRKsNVNLdW16uGBN9LJn7K8ggGDpQu+BwAj1A4vJ8dJeZT6YFYgf31Y7IkW5kXur+bSGEn7F7v2gkqjdOjipnAtQ0AkfW5mxoeGYWdE7JlhElrMKR7IaeTjmJU5SlRzqiMXVKyZbIt70OhARLBCALG7jBR/CMTtMOFXTUvxF8PbhB91r"
+	  "krpuSrz6dpU372WkuFY4IA1APT8g0hJ5jiS97fy1mdgd/3WeC/GIgMroTDgaTBlRWKELRgxrSzWOBoKOkp8Hs8lPW4ljjzn6JXFwqv4ZMio08d/bDy3Sm1+BoqSVxlt3cpWEa/bwIDAQAB" )  ; ----- DKIM key peertube for mydomain.tld
